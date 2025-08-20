@@ -13,7 +13,7 @@ A compact, production-ready machine learning project for classifying emails as s
 ## Dataset
 Use any labeled CSV with columns:
 - `text` (email text body/subject combined or body only)
-- `label` (0 = ham, 1 = spam)
+- `label` (0 = not spam, 1 = spam)
 
 Examples: Enron Spam Dataset, Kaggle SMS Spam Collection (rename columns accordingly).
 
